@@ -1,1 +1,12 @@
-
+{
+  "topics": [
+    {"id": "vectors", "desc": {"ko": "벡터"}},
+    {"id": "kinematics", "desc": {"ko": "동역학"}},
+    {"id": "newton_law", "desc": {"ko": "뉴턴의 법칙"}},
+    {"id": "work_energy_power", "desc": {"ko": "일, 에너지, 일률"}},
+    {"id": "linear_momentum", "desc": {"ko": "선운동량"}},
+    {"id": "rotation", "desc": {"ko": "회전운동"}},
+    {"id": "gravitation", "desc": {"ko": "중력"}},
+    {"id": "oscillation", "desc": {"ko": "진동운동"}}
+  ]
+}
