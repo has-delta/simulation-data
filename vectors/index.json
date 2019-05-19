@@ -1,0 +1,7 @@
+{
+  "topics": [
+    {"id": "addition", "desc": {"ko": "벡터 합"}},
+    {"id": "components", "desc": {"ko": "벡터의 성분"}},
+    {"id": "products", "desc": {"ko": "벡터의 곱"}}
+  ]
+}
