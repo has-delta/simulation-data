@@ -1,0 +1,8 @@
+{
+  "topics": [
+    {"id": "rotational_motion", "desc": {"ko": "회전운동"}},
+    {"id": "rotational_inertia", "desc": {"ko": "회전관성"}},
+    {"id": "kinetic_energy_rotation", "desc": {"ko": "회전 운동에너지"}},
+    {"id": "angular_momentum", "desc": {"ko": "각운동량"}}
+  ]
+}
