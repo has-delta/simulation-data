@@ -1,0 +1,8 @@
+{
+  "topics": [
+    {"id": "shm", "desc": {"ko": "조화진동운동"}},
+    {"id": "sinusoidal_shm", "desc": {"ko": "조화진동운동과 사인"}},
+    {"id": "vertical_oscillation", "desc": {"ko": "수직 진동운동"}},
+    {"id": "pendulum", "desc": {"ko": "진자"}}
+  ]
+}
