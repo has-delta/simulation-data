@@ -1,0 +1,9 @@
+{
+  "topics": [
+    {"id": "linear_momentum", "desc": {"ko": "선운동량"}},
+    {"id": "com", "desc": {"ko": "질량중심"}},
+    {"id": "collision", "desc": {"ko": "충돌"}},
+    {"id": "impulse", "desc": {"ko": "충격량"}},
+    {"id": "impulsive_force", "desc": {"ko": "충격력"}}
+  ]
+}
