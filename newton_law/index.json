@@ -1,0 +1,8 @@
+{
+  "topics": [
+    {"id": "pulley", "desc": {"ko": "도르래"}},
+    {"id": "friction", "desc": {"ko": "마찰력"}},
+    {"id": "inclined_plane", "desc": {"ko": "경사면"}},
+    {"id": "uniform_circular", "desc": {"ko": "등속 원운동"}}
+  ]
+}
