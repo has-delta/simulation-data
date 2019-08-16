@@ -1,0 +1,7 @@
+{
+  "topics": [
+    {"id": "newton_gravitation", "desc": {"ko": "뉴턴의 중력법칙"}},
+    {"id": "gravitational_potential.md", "desc": {"ko": "중력 퍼텐셜 에너지"}},
+    {"id": "orbit", "desc": {"ko": "궤도"}}
+  ]
+}

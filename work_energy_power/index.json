@@ -1,0 +1,8 @@
+{
+  "topics": [
+    {"id": "work", "desc": {"ko": "일"}},
+    {"id": "potential_energy", "desc": {"ko": "퍼텐셜 에너지"}},
+    {"id": "potential_energy_curve", "desc": {"ko": "퍼텐셜 에너지 곡선"}},
+    {"id": "mechanical_energy_conservation", "desc": {"ko": "역학적 에너지 보존법칙"}}
+  ]
+}

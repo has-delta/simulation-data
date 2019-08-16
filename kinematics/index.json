@@ -1,0 +1,9 @@
+{
+  "topics": [
+    {"id": "speed_velocity", "desc": {"ko": "속도와 속력"}},
+    {"id": "acceleration", "desc": {"ko": "가속도"}},
+    {"id": "uniform_acceleration", "desc": {"ko": "등가속도 운동"}},
+    {"id": "freefall", "desc": {"ko": "자유낙하 운동"}},
+    {"id": "projectile", "desc": {"ko": "포물선 운동"}}
+  ]
+}
